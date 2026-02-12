@@ -14,6 +14,10 @@ body {
 	text-align: center;
 }
 
+.backgroundImage {
+	background-Image: url(../img/wrench.png);
+	width: 400px;
+	height: 400px;
 h1 {
 font-family: "Playwrite NZ Basic", cursive;
 }
